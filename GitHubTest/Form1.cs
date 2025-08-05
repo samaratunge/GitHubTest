@@ -21,5 +21,10 @@ namespace GitHubTest
         {
             MessageBox.Show("Hi Udara How are you? ");
         }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("Display message with title","Message Udara");
+        }
     }
 }
