@@ -19,7 +19,7 @@ namespace GitHubTest
 
         private void button1_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("Hi Udara How are you");
+            MessageBox.Show("Hi Udara How are you? ");
         }
     }
 }
